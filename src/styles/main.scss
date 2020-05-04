@@ -1,5 +1,11 @@
+@import "colors";
+
 /* Reset margin and padding on all elements. */
 * {
   margin: 0;
   padding: 0;
+}
+
+body {
+  background-color: $foo;
 }
